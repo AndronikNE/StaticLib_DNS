@@ -1,0 +1,41 @@
+﻿  pch.cpp
+  StaticLib_DNS.cpp
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(12,5): error C2065: string: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(12,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "str"
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(12,12): error C2065: str: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(14,5): error C2065: ifstream: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(14,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "file"
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(14,14): error C3861: file: идентификатор не найден
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(15,10): error C2065: file: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(20,20): error C2065: file: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(20,26): error C2065: str: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(20,12): error C3861: getline: идентификатор не найден
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(22,9): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(22,25): error C2065: str: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
+C:\Users\postp\Desktop\Программирование\Конфигурирование Windows 10\StaticLib_DNS\StaticLib_DNS.cpp(27,5): error C2065: file: необъявленный идентификатор
+  (компиляция исходного файла "/StaticLib_DNS.cpp")
+  
